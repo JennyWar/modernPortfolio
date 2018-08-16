@@ -8,4 +8,4 @@
 
 
 
-<p><a href="https://jennywar.github.io/modernPortfolio/">View my Portfolio here</a></p>
+<h3><a href="https://jennywar.github.io/modernPortfolio/">View my Portfolio here</a></h3>
